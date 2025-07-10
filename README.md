@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Kisan - AI-Powered Farmer Assistant
 
 ## Vision
@@ -156,3 +157,6 @@ Project Kisan leverages Google AI technologies to create a comprehensive farming
 ---
 
 *Project Kisan: Empowering Indian Farmers with AI-Driven Intelligence* 
+=======
+# kisan
+>>>>>>> ce221c95e954c029ed0b89eb9fdc4308535caa8c
