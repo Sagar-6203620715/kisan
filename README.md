@@ -134,11 +134,6 @@ Project Kisan leverages Google AI technologies to create a comprehensive farming
 - Improved food security and farmer livelihoods
 - Data-driven agricultural policy making
 
-## Revenue Model
-- Freemium model with basic features free
-- Premium subscription for advanced analytics
-- Commission from government scheme applications
-- Partnership with agricultural input providers
 
 ## Team Requirements
 - Full-stack developers (React Native, Node.js)
